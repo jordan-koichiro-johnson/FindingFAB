@@ -1,0 +1,20 @@
+.title {
+    border: black;
+    color: green
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+    text-align: center
+}
+
+table {
+    background-color: grey;
+}
+
+th,
+td {
+    background-color: white
+}
